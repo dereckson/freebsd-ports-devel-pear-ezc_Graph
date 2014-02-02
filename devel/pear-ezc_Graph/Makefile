@@ -7,7 +7,7 @@ CATEGORIES=	devel pear
 MASTER_SITES=	http://components.ez.no/get/
 PKGNAMEPREFIX=	pear-${PEAR_CHANNEL}_
 
-MAINTAINER=	derecksno@gmail.com
+MAINTAINER=	dereckson@gmail.com
 COMMENT=	2D and 3D line, pie and bar charts
 
 BUILD_DEPENDS=	pear>=1.4.2:${PORTSDIR}/devel/pear \
